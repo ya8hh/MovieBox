@@ -1,12 +1,41 @@
-# React + Vite
+# 🎬 Movie Streamer
+#This Actually Stream Movies!!!!
+A minimal movie streaming web app where you can search for your favorite films, stream them instantly, and enjoy subtitles in multiple languages.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Search and stream movies by name  
+- 📜 Add your own subtitles (supports external subtitle links)  
+- 🌐 Choose from multiple subtitle languages  
+- ▶️ Autoplay option for seamless viewing  
+- 📺 Discover top trending movies of the week  
+- ❤️ Save and manage your own watchlist  
+- 🌗 Toggle between dark and light themes  
+- 🪧 Includes a section for ads (supports integration with ad networks)  
+- 📢 Footer disclaimer for transparency
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧾 Disclaimer
+
+> This platform is built purely for educational and informational purposes.  
+> No content is hosted or served directly from this platform.  
+>  
+> _Made with ❤️ by [ya8hh](https://github.com/ya8hh)_
+
+---
+
+## 📌 How to Use
+
+1. Search for a movie by name  
+2. (Optional) Add a subtitle URL  
+3. Select your preferred subtitle language  
+4. Enable or disable autoplay  
+5. Click **Load Movie** to stream  
+6. Scroll down to explore trending weekly picks  
+7. Add movies to your watchlist to save them locally
+
+---
+
